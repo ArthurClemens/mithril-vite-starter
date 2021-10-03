@@ -10,6 +10,7 @@ Pull the template files with [degit](https://github.com/Rich-Harris/degit) and i
 
 ```
 npx degit ArthurClemens/mithril-vite-starter my-project
+cd my-project
 npm install
 ```
 
