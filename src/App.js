@@ -5,7 +5,7 @@ export const App = () => {
   // Local state ...
   return {
     view: () => {
-      return m("div", "My Mithril App");
+      return m("h1", "My Mithril App");
     },
   };
 };

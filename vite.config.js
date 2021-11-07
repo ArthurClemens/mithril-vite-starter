@@ -1,5 +1,10 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  // Settings
+  // Uncomment to use JSX:
+  // esbuild: {
+  //   jsx: "transform",
+  //   jsxFactory: "m",
+  //   jsxFragment: "'['",
+  // },
 });
